@@ -1,0 +1,13 @@
+{
+  "updated": [
+    "2026-11-07"
+  ],
+  "rows": 407946,
+  "keys": 554285,
+  "courses": 1518,
+  "shard_bytes_avg": 40466,
+  "shard_bytes_max": 53435,
+  "warnings": {
+    "plus_no_trial": 7
+  }
+}
